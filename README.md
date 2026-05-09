@@ -7,6 +7,7 @@ Estudante de Engenharia da Computação na UTFPR.
 - Python
 - HTML/CSS
 - JavaScript
+- Windows
 - Linux
 
 ## Atualmente estudando
