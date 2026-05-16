@@ -1,6 +1,6 @@
 # Kauã Rodrigues Ziojlo
 
-Estudante de Engenharia da Computação na UTFPR.
+Estudante de Engenharia da Computação na UTFPR e fundador da comunidade [ETRIX](https://discord.gg/AyGjthcURc).
 
 ## Competências
 - C
