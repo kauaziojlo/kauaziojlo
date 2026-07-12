@@ -5,8 +5,9 @@ Estudante de Engenharia da Computação na UTFPR e fundador da comunidade [ETRIX
 ## Competências
 - C
 - Python
-- HTML/CSS
+- HTML
 - JavaScript
+- PHP
 - Windows
 - Linux
 
