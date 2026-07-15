@@ -2,7 +2,7 @@
 
 Estudante de Engenharia da Computação na UTFPR e fundador da comunidade [ETRIX](https://discord.gg/AyGjthcURc) (14.000+ membros).
 
-Desde muito jovem sou uma pessoa criativa e amante das artes digitais, comecei a mexer com computadores aos 5 anos de idade, tanto pela paixão por jogos, quanto por curiosidade de modificações.
+Desde muito jovem sou uma pessoa criativa, amante das artes digitais e da lógica computacional, comecei a mexer com computadores aos 5 anos de idade, tanto pela paixão por jogos, quanto por curiosidade de modificações.
 
 Tenho facilidade com Python, JavaScript e C, além de domínio avançado em ambientes Windows e suporte remoto. Sou movido por desafios que exigem criatividade, organização e, acima de tudo, a aplicação prática da tecnologia para resolver problemas reais.
 
